@@ -1,13 +1,13 @@
 11/9  I have downloaded MySQL.  It took a while, so I was unable to really do anything with it once it was downloaded.
 
-11/15  I took an hour and learned a bit about MySQL.  I still feel as though I don't know all that much, but I have a good
-start on what I need to do for wednesday
+11/15  I took an hour and learned a bit about MySQL.  I still feel as though I don't know all that much, but I have a good start on what I need to do for wednesday
 
 11/18 I created a VERY rough draft of my data model.  Now i just need to figure out how to do that stuff.
 
-11/22 I created another rough draft of my data model.  This one should actually be a data model, unlike the last one.  I am
-feeling a lot better working in mySQL.
+11/22 I created another rough draft of my data model.  This one should actually be a data model, unlike the last one.  I am feeling a lot better working in mySQL.
 
-11/28 I created an example of what my pages will look like.
+11/28 I created 4 example pages that I will use for my website.  The first page I created was the page used to add a game to the database. The second page I made was the page used to view the details about each game.  I then created the page to request games to be bought by the club (It used similar code to the add game).  Finally I created the actual db page.
 
-12/2 I populated part of the database.
+12/2 I added 3 games to the database, which will be connected to my pages at a later time.  These games were: Risk, Dark Moon, and Monopoly.
+
+12/6 I have made my comments in my journal more detailed.  I will continue to do this for the rest of my project.
